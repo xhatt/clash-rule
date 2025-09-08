@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-SUFFIX,kucoin.com
+  - DOMAIN-SUFFIX,kucoin.io
+  - DOMAIN-SUFFIX,kcsapi.io
+  - DOMAIN-SUFFIX,kcsstatic.com

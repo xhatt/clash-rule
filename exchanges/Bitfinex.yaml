@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,bitfinex.com
+  - DOMAIN-SUFFIX,bitfinexapis.com
+  - DOMAIN-SUFFIX,bfxdata.com
